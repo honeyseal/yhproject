@@ -8,5 +8,6 @@
 </head>
 <body>
 Car mall ver1.0
+Car mall ver2.0
 </body>
 </html>
